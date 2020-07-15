@@ -1,0 +1,12 @@
+Package: com.artikus.iconbundles
+Name: IconBundles
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: IconBundles fork with support for newer theme formats and a few external options.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Tweaks
+Conflicts: com.codethemed.iconbundles
+Provides: com.codethemed.iconbundles
+Replaces: com.codethemed.iconbundles
